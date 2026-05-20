@@ -64,8 +64,6 @@ The system detects structural defects such as cracks, dampness, and corrosion fr
 ai-powered-snag-detection-system/
 │
 ├── screenshots/
-├── reports/
-├── feedback_images/
 │
 ├── analysis_agent.py
 ├── vision_agent.py
